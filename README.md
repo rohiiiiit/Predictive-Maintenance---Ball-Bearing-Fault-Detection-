@@ -1,1 +1,1 @@
-# Predictive-Maintenance---Ball-Bearing-Fault-Detection-
+Predictive Maintenance - Ball Bearing Fault Detection
